@@ -1,4 +1,4 @@
-# Hi, I'm Joseph Kanyui 👋
+# Hello, I'm Joseph Kanyui 👋
 
 ### Data Science Student | University of Nairobi 🇰🇪
 
