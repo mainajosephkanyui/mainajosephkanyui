@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/mainajosephkanyui">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=48&height=100&width=800&text=Hello!%20I'm%20Joseph%20Kanyui%20%F0%9F%91%8B" alt="Hello, I'm Joseph Kanyui" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea001&fontSize=48&height=100&width=800&text=Hello!%20I'm%20Joseph%20Kanyui%20%F0%9F%91%8B" alt="Hello, I'm Joseph Kanyui" />
   </a>
 </p>
 
