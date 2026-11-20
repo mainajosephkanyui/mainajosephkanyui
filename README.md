@@ -12,12 +12,12 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Pursuing a *BSc in Data Science* at the *University of Nairobi*.
-- 🇰🇪 Based in Nairobi, Kenya.
-- 📊 Interested in Data Science, Statistics and Data Analytics.
-- 🤖 Exploring Artificial Intelligence and Machine Learning.
-- 💡 Passionate about technology, problem-solving and continuous learning.
-- 🚀 Working towards becoming a skilled Data Scientist.
+- Pursuing a *BSc in Data Science* at the *University of Nairobi*.
+- Based in Nairobi, Kenya.
+- Interested in Data Science, Statistics and Data Analytics.
+- Exploring Artificial Intelligence and Machine Learning.
+- Passionate about technology, problem-solving and continuous learning.
+- Working towards becoming a skilled Data Scientist.
 
 ### 💻 Tech Stack & Learning Journey
 
